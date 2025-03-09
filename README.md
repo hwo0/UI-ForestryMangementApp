@@ -4,11 +4,11 @@
   <img src="https://github.com/user-attachments/assets/055b2dc0-d571-4d2a-a735-783cdea618d7" alt="Figma UI Design">
   
   <h3>Site Visit Selection Page:</h3>
-  <img src="https://github.com/user-attachments/assets/ee41acf9-f633-47ff-a64b-5b261df1dd59" alt="Figma UI Design-1">
-  
+  <img width="428" alt="iPhone 14 Pro Max - 2" src="https://github.com/user-attachments/assets/460c5adc-3c97-4fa0-96a0-71d5c74f245a" />
+
   <h3>Site Visit Bookings Page:</h3>
-  <img src="https://github.com/user-attachments/assets/639bfd7e-a760-4192-b4e7-93998534cec5" alt="Figma UI Design-2">
-  
+  <img width="428" alt="iPhone 14 Pro Max - 3" src="https://github.com/user-attachments/assets/ffed72a2-c381-4e7b-9698-d0f56608f31e" />
+
   <h3>Shipment Order Page:</h3>
-  <img src="https://github.com/user-attachments/assets/606c44fe-45e8-42d8-8789-58f38052d0a6" alt="Figma UI Design-3">
+  <img width="428" alt="iPhone 14 Pro Max - 1" src="https://github.com/user-attachments/assets/3cb2879e-dfd5-49f0-a689-bddb6b20c980" />
 </div>
