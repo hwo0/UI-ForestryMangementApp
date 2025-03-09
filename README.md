@@ -1,14 +1,27 @@
 # UI-ForestryMangementApp Design - by Helen Wu
 
+This Forestry Logistics Management App's user interface design reflects a critical emphasis on usability and efficiency tailored for field operations and logistics management. The navigation is streamlined to facilitate swift access to core functionalities. 
+
+The site visitation interface employs a scrollable thumbnail layout to efficiently manage and select sites, coupled with action-specific options such as initiating new visits or arranging shipments, enhancing user interaction with the app. 
+
+Booking site visits merges visual data and vital logistical information, including recent photos, contact details, and a built-in map for quick navigation. 
+
+For shipment management, the interface simplifies complex logistics by offering intuitive selection options for shipment sizes and types, ensuring users can easily arrange the transport of various wood products. 
+
+This integration of design elements underscores commitment to an optimal user experience, prioritising operational fluidity and clear, actionable pathways throughout the app.
+
+</br>
+
+
 <div align="center">
   <img src="https://github.com/user-attachments/assets/055b2dc0-d571-4d2a-a735-783cdea618d7" alt="Figma UI Design">
   
   <h3>Site Visit Selection Page:</h3>
-  <img width="428" alt="iPhone 14 Pro Max - 2" src="https://github.com/user-attachments/assets/460c5adc-3c97-4fa0-96a0-71d5c74f245a" />
+  <img width="428" alt="iPhone 14 Pro Max - 1" src="https://github.com/user-attachments/assets/bdb285ad-2bb7-4a61-9c72-28ef6e783593" />
 
   <h3>Site Visit Bookings Page:</h3>
-  <img width="428" alt="iPhone 14 Pro Max - 3" src="https://github.com/user-attachments/assets/ffed72a2-c381-4e7b-9698-d0f56608f31e" />
+  <img width="428" alt="iPhone 14 Pro Max - 2" src="https://github.com/user-attachments/assets/cb9bb299-54fa-49ab-ae2b-66facc3d22a3" />
 
   <h3>Shipment Order Page:</h3>
-  <img width="428" alt="iPhone 14 Pro Max - 1" src="https://github.com/user-attachments/assets/3cb2879e-dfd5-49f0-a689-bddb6b20c980" />
+  <img width="428" alt="iPhone 14 Pro Max - 3" src="https://github.com/user-attachments/assets/d2eaa077-2c7d-46eb-a026-d3164c90090a" />
 </div>
