@@ -14,7 +14,7 @@ This integration of design elements underscores commitment to an optimal user ex
 
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/055b2dc0-d571-4d2a-a735-783cdea618d7" alt="Figma UI Design">
+  <img src="https://github.com/user-attachments/assets/d43a7306-8e17-48f3-ac15-be5990b5462c" alt="Figma UI Design">
   
   <h3>Site Visit Selection Page:</h3>
   <img width="428" alt="iPhone 14 Pro Max - 1" src="https://github.com/user-attachments/assets/bdb285ad-2bb7-4a61-9c72-28ef6e783593" />
@@ -23,5 +23,6 @@ This integration of design elements underscores commitment to an optimal user ex
   <img width="428" alt="iPhone 14 Pro Max - 2" src="https://github.com/user-attachments/assets/cb9bb299-54fa-49ab-ae2b-66facc3d22a3" />
 
   <h3>Shipment Order Page:</h3>
-  <img width="428" alt="iPhone 14 Pro Max - 3" src="https://github.com/user-attachments/assets/d2eaa077-2c7d-46eb-a026-d3164c90090a" />
+  <img width="428" alt="iPhone 14 Pro Max - 3" src="https://github.com/user-attachments/assets/967f9c66-bd9c-435f-bab0-42503e2fe4f2" />
 </div>
+
